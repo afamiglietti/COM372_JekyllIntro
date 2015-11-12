@@ -3,3 +3,8 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+
+#main_title {
+  background-color: purple;
+  color: white;
+}
