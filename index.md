@@ -14,3 +14,5 @@ My Cool new Site!!
 Some fun _emphasized_ text
 
 I can even make a link to [Google](google.com)!!
+
+<video src="assets/images/catvid.mp4" autoplay> </video>
