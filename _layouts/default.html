@@ -8,17 +8,16 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<div class="container">
-  <header id="mainheader"> <h1>{{ page.title }}</h1> </header>
-  <div class="splashimage"></div>
-  <div class="row">
-    <div class="col-md-4">
-      MY SIDEBAR
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+    <div class="row">
+      <div class="col-md-4">
+        MY SIDEBAR WILL GO HERE
+      </div>
+      <div class="col-md-8">
+        {{ content }}
+      </div>
     </div>
-    <div class="col-md-8">
-  {{ content }}
-</div>
-</div>
-</div>
+  </div>
 </body>
 </html>
