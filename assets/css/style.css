@@ -2,3 +2,9 @@
   background-image: url("../images/mountain.jpg");
   height: 200px;
 }
+
+#topHeading {
+  background-color: purple;
+  padding: 50px;
+  border: 1px solid blue;
+}
